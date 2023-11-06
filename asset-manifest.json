@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Disney-Clone/static/css/main.1757fd15.css",
+    "main.js": "/Disney-Clone/static/js/main.2f37e3b1.js",
+    "index.html": "/Disney-Clone/index.html",
+    "main.1757fd15.css.map": "/Disney-Clone/static/css/main.1757fd15.css.map",
+    "main.2f37e3b1.js.map": "/Disney-Clone/static/js/main.2f37e3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1757fd15.css",
+    "static/js/main.2f37e3b1.js"
+  ]
+}
